@@ -22,6 +22,10 @@ Introduction
 ------------
 EasyGraph is an open source graph processing library. It is mainly written in Python and supports analysis for undirected graphs and directed graphs. EasyGraph supports various formats of graph data and covers a series of important graph mining algorithms for community detection, structural hole spanner detection, graph embedding and motif detection. Moreover, EasyGraph implements some key elements using C++ and introduces multiprocessing optimization to achieve a better efficiency.
 
+.. image:: https://reporoster.com/stars/easy-graph/Easy-Graph
+   :target: https://github.com/easy-graph/Easy-Graph/stargazers
+   :alt: Stargazers repo roster for @easy-graph/Easy-Graph
+
 Install
 -------
 
